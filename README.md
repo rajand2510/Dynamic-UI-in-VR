@@ -1,7 +1,8 @@
 # Dynamic-UI-in-VR
 # Description:
 This repository presents a showcase of a dynamic and immersive user interface (UI) design project tailored specifically for Virtual Reality (VR) environments. The project encapsulates innovative UI design principles and implementation within the VR landscape.
-
+# Usage:
+Access the PDF [click here](https://www.linkedin.com/posts/rajan-dhariyaparmar-7bb7a2233_adaptive-ui-for-vr-experiences-activity-7132403029084913664-eArk?utm_source=share&utm_medium=member_desktop) to explore insights into crafting dynamic UIs in Virtual Reality.
 # Project Overview:
 Objective: The project aimed to create a highly adaptable and user-centric UI within VR, enhancing user experiences and interaction within virtual spaces.
 Approach: Leveraging VR technology, this project explores novel UI design paradigms, offering an intuitive, spatially aware interface for seamless navigation and interaction.
